@@ -45,9 +45,9 @@ seconds
   * I use this to cut noises when pressing buttons on the recorder
 * Place the samples in a folder in a subfolder called `in`
 * Run sample-prep
-* Check your samples, if there is unwanted noise in the result, silece it in
+* Check your samples, if there is unwanted noise in the result, silence it in
 there original
-* Here are some heuristics to prepare most samples correct, if some don't work
+* There are some heuristics to prepare most samples correct, if some don't work
 process them manually
 
 In my test out of 40 samples I had to silence parts in 2 samples.
