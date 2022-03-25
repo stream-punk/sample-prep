@@ -1,3 +1,9 @@
+Sample-prep
+===========
+
+Remove silence from percussive samples, normalize and write norm/high/low
+versions.
+
 Install
 -------
 

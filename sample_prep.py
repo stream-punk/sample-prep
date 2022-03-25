@@ -164,7 +164,7 @@ def directory(path):
     ),
 )
 def cli(path):
-    """Prep samples."""
+    """Remove silence from percussive samples, normalize and write norm/high/low versions."""
     directory(path)
 
 
