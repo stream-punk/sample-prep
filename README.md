@@ -1,6 +1,14 @@
 Install
 -------
 
+Pip:
+
+```bash
+pip install .
+```
+
+Poetry:
+
 ```bash
 poetry shell
 poetry install
