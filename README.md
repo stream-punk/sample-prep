@@ -3,7 +3,7 @@ Install
 
 ```bash
 poetry shell
-poetry update
+poetry install
 ```
 
 Apple M1:
@@ -12,5 +12,12 @@ Apple M1:
 poetry shell
 export LLVM_CONFIG=/opt/homebrew/Cellar/llvm@11/*/bin/llvm-config
 pip install llvmlite
-poetry update
+poetry install
+```
+
+Run
+---
+
+```bash
+sample-prep ~/path/to/samples
 ```
